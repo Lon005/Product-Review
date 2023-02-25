@@ -22,6 +22,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+picture{
+    display: flex;
+    height: 500px;
+}
 .product{
     display: flex;
     height: 500px;
