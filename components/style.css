@@ -103,6 +103,7 @@ span{
         display: flex;
         flex-direction: column; 
         margin: 0;
+        margin-bottom: 100px;
     }
     .perfume{
         width: 400px;
@@ -124,4 +125,5 @@ span{
         margin-bottom: 10px;
         margin-left: 10px;
     }
+
 }
