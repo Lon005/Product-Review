@@ -98,3 +98,30 @@ span{
 .buy:hover{
     cursor: pointer;
 }
+@media screen and (max-width:650px){
+    .product{ 
+        display: flex;
+        flex-direction: column; 
+        margin: 0;
+    }
+    .perfume{
+        width: 400px;
+
+    }
+    .product-desc{
+        width: 400px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        
+    }
+    .category{
+        margin-top: 20px;
+    }
+    .content{
+        margin-left: 20px;
+    }
+    .button-wrapper{
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+}
